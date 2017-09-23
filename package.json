@@ -1,0 +1,23 @@
+{
+  "name": "moviedb",
+  "version": "1.0.0",
+  "description": "this is a school project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanuelsovrano/moviedb.git"
+  },
+  "author": "esovrano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanuelsovrano/moviedb/issues"
+  },
+  "homepage": "https://github.com/emanuelsovrano/moviedb#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
